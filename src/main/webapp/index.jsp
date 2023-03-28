@@ -2,7 +2,7 @@
 
 <head>
 
-<title>first project here </title>
+<title>first project here  name is here </title>
 </head>
 <body>
 <h2>Hello World!</h2>
@@ -10,5 +10,7 @@
  
 
 <h1> love indiar</h1>
+<h1> love ineedferdjferwjdr</h1>
+
 </body>
 </html>
