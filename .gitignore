@@ -1,1 +1,4 @@
-error.log
+xyx.txt 
+/java
+*.log
+*/target/**
