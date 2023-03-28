@@ -1,0 +1,2 @@
+src/main/java/redmitext.txt
+target/classes/redmitext.txt
