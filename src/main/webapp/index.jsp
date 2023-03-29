@@ -10,7 +10,10 @@
  
 
 <h1> love indiar</h1>
+<<<<<<< HEAD
 <h1> love ineedferdjferwjdr</h1>
 <h1> code to shi hai kaam kaha hai </h1>
+=======
+ 
 </body>
 </html>
